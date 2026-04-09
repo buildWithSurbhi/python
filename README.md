@@ -1,1 +1,1 @@
-Here i'm posting python solutions
+Here i'm posting python solution
